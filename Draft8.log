@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\tomii\Documents\LTspice\Draft8.asc
-Start Time: Tue Oct  8 19:59:35 2024
+Start Time: Sun Oct 20 20:31:40 2024
 Warning: Multiple definitions of model "2scr375p" Type: BJT
 Warning: Multiple definitions of model "bc857b" Type: BJT
 Warning: Multiple definitions of model "bc847c" Type: BJT
@@ -12,7 +12,7 @@ temp = 27
 method = modified trap
 Direct Newton iteration for .op point succeeded.
 
-average: AVG(v(vout)/v(vin))=12.4454 FROM 0.00101 TO 0.0025
+average: AVG(v(vout)/v(vin))=13.3309 FROM 0.00101 TO 0.0025
 
-Total elapsed time: 0.090 seconds.
+Total elapsed time: 0.209 seconds.
 
